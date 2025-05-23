@@ -2,7 +2,7 @@ import "./App.css";
 import NavBar from "./components/NavBar";
 import { Route, Routes } from "react-router";
 import Search from "./pages/SearchScores";
-import Dashboard from "./pages/dashboard";
+import Dashboard from "./pages/Dashboard";
 import Report from "./pages/Report";
 
 function App() {
